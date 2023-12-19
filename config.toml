@@ -5,7 +5,7 @@ googleAnalytics = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 languageCode = "en-us"
 theme = "hugo-classic"
-title = "home"
+title = "LinkHpp Website"
 
 [markup.goldmark.renderer]
 unsafe = true
