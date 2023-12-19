@@ -1,5 +1,5 @@
 /* Dark mode */
-@media (prefers-color-scheme: dark) {
+
     body {
         background-color: #393E41;
         color: white;
@@ -33,7 +33,7 @@
     th, td { padding: 5px; }
     tr:nth-child(even) { background: #666 }
 
-}
+
 
 body {
   max-width: 800px;
