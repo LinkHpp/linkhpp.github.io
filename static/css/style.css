@@ -35,38 +35,6 @@
 
 }
 
-
-/* Light mode */
-@media (prefers-color-scheme: light) {
-    blockquote {
-      background: #f9f9f9;
-    }
-
-    a {
-      color: #613DC1;
-    }
-
-    header {
-      background: #613DC1;
-    }
-
-    .article-meta, .menu a {
-      background: #E8DBC5;
-      color: #000;
-    }
-
-    table {
-      margin: auto;
-      border-top: 1px solid #666;
-      border-bottom: 1px solid #666;
-    }
-    table thead th { border-bottom: 1px solid #ddd; }
-    th, td { padding: 5px; }
-    tr:nth-child(even) { background: #eee }
-
-}
-
-
 body {
   max-width: 800px;
   margin: auto;
