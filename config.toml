@@ -1,4 +1,5 @@
-baseurl = "https://linkhpp.github.io/"enableEmoji = true
+baseurl = "https://linkhpp.github.io/"
+enableEmoji = true
 footnotereturnlinkcontents = "↩"
 googleAnalytics = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
