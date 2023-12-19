@@ -1,29 +1,5 @@
 /* Dark mode */
 
-    body {
-        background-color: #393E41;
-        color: white;
-    }
-
-    blockquote {
-      background: #393E41;
-    }
-
-    a {
-      color: #EBC3DB;
-    }
-
-    header {
-      background: #393E41;
-      border-bottom: 2px dotted #EBC3DB;
-
-    }
-
-    .article-meta, .menu a {
-      background: #393E41;
-      color: white;
-    }
-
     table {
       margin: auto;
       border-top: 1px solid #666;
@@ -34,8 +10,9 @@
     tr:nth-child(even) { background: #666 }
 
 
-
 body {
+background-color: #393E41;
+color: white;
   max-width: 800px;
   margin: auto;
   padding: .2em;
@@ -70,6 +47,8 @@ output:
   border-style: dotted;
   border-width: 1px;
   margin-bottom: 20px;
+          background: #393E41;
+      color: white;
 }
 
 .terms { font-size: .9em; }
@@ -86,6 +65,7 @@ footer a { text-decoration: none; }
 
 a {
   text-decoration: none;
+    color: #EBC3DB;
 }
 
 a:hover {
@@ -98,6 +78,8 @@ header {
     width: 100%;
     height: 1.75rem;
     font-size: 1rem;
+          background: #393E41;
+      border-bottom: 2px dotted #EBC3DB;
 }
 
 header ul,
@@ -155,6 +137,7 @@ blockquote {
 
   border-left: 5px solid #ccc;
   padding: 3px 1em 3px;
+    background: #393E41;
 }
 
 .content-wrapper {
