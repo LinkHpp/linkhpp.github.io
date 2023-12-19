@@ -1,11 +1,10 @@
-baseurl = "/"
-enableEmoji = true
+baseurl = "https://linkhpp.github.io/"enableEmoji = true
 footnotereturnlinkcontents = "↩"
 googleAnalytics = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 languageCode = "en-us"
 theme = "hugo-classic"
-title = "Classic"
+title = "LinkHpp Website"
 
 [markup.goldmark.renderer]
 unsafe = true
