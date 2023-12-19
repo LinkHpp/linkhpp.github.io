@@ -8,6 +8,7 @@ tags:
   - Chip-8
   - Emulator
   - Videogames
+slug: test-chip8
 ---
 
 
